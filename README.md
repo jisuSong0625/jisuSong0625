@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### Electronic Circuit Designer / Embedded System / Android Developer
 🏫 I am doing an undergraduate program in Kyungpook National University's Department of Electronics Engineering.
 
@@ -34,6 +33,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/KOTLIN-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/-RISC--V-283272?style=flat-square&logo=riscv&logoColor=white"/>
 <img src="https://img.shields.io/badge/-ARDUINO-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NXP-000000?style=flat-square&logo=nxp&logoColor=white"/>
 
 #### 🛠️ Tools
 
