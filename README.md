@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 🎵 I have a hobby in app development, and I like psychology and robotics.
 
+📱 I was the president of Kyungpook National University's Central Club [Appdong](https://github.com/APPDONG-KNU) (2023.09 - 2024.08)
+
 #### ✨ Stacks
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/C/C++-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
