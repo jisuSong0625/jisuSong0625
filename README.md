@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 🏫 I am doing an undergraduate program in Kyungpook National University's Department of Electronics Engineering.
 
-💻 I double major in computer science.
+💻 I double major in Computer Science.
 
-🌱 I am very interested in semiconductors, information and communication engineering, and intelligent systems and control engineering.
+🌱 I am interested in semiconductors, information and communication engineering, and intelligent systems and control engineering.
 
 🎵 I have a hobby in app development, and I like psychology and robotics.
 
