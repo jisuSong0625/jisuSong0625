@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Electronic Circuit Designer / Embedded System / Android Developer
 🏫 I am doing an undergraduate program in Kyungpook National University's Department of Electronics Engineering.
 
 💻 I double major in computer science.
